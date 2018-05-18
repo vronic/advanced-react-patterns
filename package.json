@@ -1,0 +1,25 @@
+{
+  "name": "advanced-react-patterns",
+  "version": "1.0.0",
+  "description":
+    "Advanced React Component Patterns by Kent C. Dodds on egghead.io",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server & open http://127.0.0.1:8080;",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vronic/advanced-react-patterns.git"
+  },
+  "keywords": ["advanced", "react", "patterns", "egghead", "kent", "dodds"],
+  "author": "Slava Rogovoy <vronic.me@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vronic/advanced-react-patterns/issues"
+  },
+  "homepage": "https://github.com/vronic/advanced-react-patterns#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}

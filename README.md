@@ -2,15 +2,14 @@
 
 Kent C. Dodds course on the Egghead.io
 
-### install http-server
+### install
 
 ```
-> npm install http-server -g
+> npm i
 ```
 
-### open browser
+### start dev server
 
 ```
-> http-server
-> open http://127.0.0.1:8080
+> npm run dev
 ```
